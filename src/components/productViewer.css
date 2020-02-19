@@ -1,0 +1,20 @@
+.imageContainer img {
+    width: 400px;
+}
+
+.addToBasket {
+    width: 100%;
+    padding: 20px 0;
+    background: black;
+    display: block;
+    color: white;
+}
+
+.addToBasket:disabled,
+.addToBasket[disabled]{
+  width: 100%;
+  padding: 20px 0;
+  background: gray;
+  display: block;
+  color: white;
+}
