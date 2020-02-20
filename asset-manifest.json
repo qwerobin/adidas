@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/adidas/static/css/main.e34d1ddf.chunk.css",
-    "main.js": "/adidas/static/js/main.4296d8ef.chunk.js",
-    "main.js.map": "/adidas/static/js/main.4296d8ef.chunk.js.map",
+    "main.css": "/adidas/static/css/main.cb80aa51.chunk.css",
+    "main.js": "/adidas/static/js/main.ec6560b1.chunk.js",
+    "main.js.map": "/adidas/static/js/main.ec6560b1.chunk.js.map",
     "runtime-main.js": "/adidas/static/js/runtime-main.a391f773.js",
     "runtime-main.js.map": "/adidas/static/js/runtime-main.a391f773.js.map",
     "static/js/2.a3f32a63.chunk.js": "/adidas/static/js/2.a3f32a63.chunk.js",
     "static/js/2.a3f32a63.chunk.js.map": "/adidas/static/js/2.a3f32a63.chunk.js.map",
     "index.html": "/adidas/index.html",
-    "precache-manifest.c3aa9a00b0f5560b651d09bc7206890f.js": "/adidas/precache-manifest.c3aa9a00b0f5560b651d09bc7206890f.js",
+    "precache-manifest.7f37bff7a88b66a7869e7e9c83e71f1c.js": "/adidas/precache-manifest.7f37bff7a88b66a7869e7e9c83e71f1c.js",
     "service-worker.js": "/adidas/service-worker.js",
-    "static/css/main.e34d1ddf.chunk.css.map": "/adidas/static/css/main.e34d1ddf.chunk.css.map",
+    "static/css/main.cb80aa51.chunk.css.map": "/adidas/static/css/main.cb80aa51.chunk.css.map",
     "static/js/2.a3f32a63.chunk.js.LICENSE.txt": "/adidas/static/js/2.a3f32a63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a391f773.js",
     "static/js/2.a3f32a63.chunk.js",
-    "static/css/main.e34d1ddf.chunk.css",
-    "static/js/main.4296d8ef.chunk.js"
+    "static/css/main.cb80aa51.chunk.css",
+    "static/js/main.ec6560b1.chunk.js"
   ]
 }
